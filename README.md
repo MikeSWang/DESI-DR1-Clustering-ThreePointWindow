@@ -1,7 +1,7 @@
 # DESI Y1 Clustering Products: Three-Point Window
 
 This is a public data repository storing the three-point clustering window products for
-the Dark Energy Spectroscopic Instrument (DESI) Year 1 data release.
+the Dark Energy Spectroscopic Instrument (DESI) Data Release 1 (DR1).
 
 The data products are for individual tracer samples in respective sky regions and
 redshift bins, corresponding to (a suite of) random catalogue(s) matching the survey
