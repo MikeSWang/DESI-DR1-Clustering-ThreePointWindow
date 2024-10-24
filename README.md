@@ -1,4 +1,4 @@
-# DESI Y1 Clustering Products: Three-Point Window
+# DESI DR1 Clustering Products: Three-Point Window
 
 This is a public data repository storing the three-point clustering window products for
 the Dark Energy Spectroscopic Instrument (DESI) Data Release 1 (DR1).
